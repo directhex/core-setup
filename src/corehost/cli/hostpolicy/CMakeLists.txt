@@ -16,6 +16,7 @@ set(SOURCES
     ./args.cpp
     ./breadcrumbs.cpp
     ./coreclr.cpp
+    ./mono.cpp
     ./deps_resolver.cpp
     ./hostpolicy.cpp
     ./hostpolicy_context.cpp
@@ -39,6 +40,7 @@ set(HEADERS
     ./args.h
     ./breadcrumbs.h
     ./coreclr.h
+    ./mono.h
     ./deps_resolver.h
     ./hostpolicy_context.h
     ./hostpolicy_init.h

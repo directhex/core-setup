@@ -81,6 +81,9 @@
 #define LIBCORECLR_FILENAME (LIB_PREFIX _X("coreclr"))
 #define LIBCORECLR_NAME MAKE_LIBNAME("coreclr")
 
+#define LIBMONO_FILENAME (LIB_PREFIX _X("monosgen-2.0"))
+#define LIBMONO_NAME MAKE_LIBNAME("monosgen-2.0")
+
 #define CORELIB_NAME _X("System.Private.CoreLib.dll")
 
 #define LIBHOSTPOLICY_FILENAME (LIB_PREFIX _X("hostpolicy"))
