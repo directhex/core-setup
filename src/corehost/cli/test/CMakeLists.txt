@@ -1,3 +1,4 @@
 add_subdirectory(mockcoreclr)
+add_subdirectory(mockmono)
 add_subdirectory(mockhostpolicy)
 add_subdirectory(nativehost)
